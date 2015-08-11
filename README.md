@@ -15,6 +15,9 @@ GitHub OAuth is used to authenticate users. You'll need to [register an applicat
 
 If you don't specify a GitHub organisation, any authenticated GitHub user will have access.
 
+## Others
+
+Use `SENTRY_DSN` to load your Sentry DSN for exception logging
 
 ## Dotenv
 
