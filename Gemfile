@@ -40,3 +40,5 @@ end
 group :production do
   gem 'rails_12factor', require: false
 end
+
+ruby '2.2.2'
